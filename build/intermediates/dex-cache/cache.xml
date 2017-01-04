@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_b25c353f5fb7cf984b0158f4a134f7ca0a9a5660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_f90100d3dd046db1ec597f398d969425cfbd8fc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e45f235ce140aa36d31d1a7fba4c4d0a55f0fb2">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fb617ca27d98e9051c202a8e1977c699faec5e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_753627433e1dd6046c780fb2a4dc2f32683e1b19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_c0f9caad0759ba319e49195ae094999f9fa9ba4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_f25d486c6b039feba6449ac28f2eb3d9e1d99bc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_fd8eccad39b8a48ba1640f80bf9b3bfb04b0990d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_be5d49a381419606d46326f4a23f9e78b042fc13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_503f0f1c280c596d16868f3b24a8e0f641aeeb0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.2\febfd2d9e89bde4c3a9723bcd9522cba96bddac7\dagger-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.2_5fa7387893d364282fa6f89b20e5d8b41d49d47a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_45843136bd6f4b8a68ae8b4be37b2739b70cdcfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f5883478c188fa722ea5ac42037613a82e747277">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1b982d1fe18070e0a937d4bc82888ea94d70454c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProject\MVP-Dagger2-RxJava-Retrofit2\dagger2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_fe256d7aeda24d3af177c65b399bbb7fe9609a32\classes.dex" />
+    </item>
+
+</items>
