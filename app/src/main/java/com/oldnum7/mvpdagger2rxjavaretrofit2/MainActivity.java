@@ -1,7 +1,9 @@
 package com.oldnum7.mvpdagger2rxjavaretrofit2;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.oldnum7.mvpdagger2rxjavaretrofit2.R;
 
 public class MainActivity extends AppCompatActivity {
 
